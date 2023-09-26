@@ -1,0 +1,35 @@
+{
+  "d8f20909-e133-4351-b1ad-dab776f18395": {
+    "url": "db://assets/scene-2d.scene",
+    "value": {}
+  },
+  "941150cc-11b1-416c-be49-7523f3293779": {
+    "url": "db://assets/scene.scene",
+    "value": {}
+  },
+  "68a17d17-49ee-46fd-81b0-7b5b86520d53": {
+    "url": "db://assets/Ball.ts",
+    "value": {}
+  },
+  "a23c3294-cac0-4a57-a4d3-796874bedac8": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "625579be-b0df-4173-9db7-e3baa02dd056": {
+    "url": "db://assets/scene/MoveBall.scene",
+    "value": {
+      "depends": [
+        "625579be-b0df-4173-9db7-e3baa02dd056",
+        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941"
+      ]
+    }
+  },
+  "e68c1107-228f-48a8-818f-3d49e176caf7": {
+    "url": "db://assets/src",
+    "value": {}
+  },
+  "80fac119-6d2a-4610-a321-74c30fa1334c": {
+    "url": "db://assets/src/MoveBall.ts",
+    "value": {}
+  }
+}

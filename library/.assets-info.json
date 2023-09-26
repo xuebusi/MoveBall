@@ -1,0 +1,66 @@
+{
+  "/Users/shiyanjun/Downloads/RunBall/assets/scene.meta": {
+    "time": 1695689262435.4182
+  },
+  "/Users/shiyanjun/Downloads/RunBall/assets/scene": {
+    "time": 1695689296375.1914,
+    "uuid": "a23c3294-cac0-4a57-a4d3-796874bedac8",
+    "missing": false
+  },
+  "/Users/shiyanjun/Downloads/RunBall/assets/scene/MoveBall.scene.meta": {
+    "time": 1695689290738.843
+  },
+  "/Users/shiyanjun/Downloads/RunBall/assets/scene/MoveBall.scene": {
+    "time": 1695710999397.9575,
+    "uuid": "625579be-b0df-4173-9db7-e3baa02dd056",
+    "missing": false
+  },
+  "/Users/shiyanjun/Downloads/RunBall/assets/src.meta": {
+    "time": 1695689714646.7034
+  },
+  "/Users/shiyanjun/Downloads/RunBall/assets/src": {
+    "time": 1695689725526.2156,
+    "uuid": "e68c1107-228f-48a8-818f-3d49e176caf7",
+    "missing": false
+  },
+  "/Users/shiyanjun/Downloads/RunBall/assets/src/MoveBall.ts.meta": {
+    "time": 1695689725527.4963
+  },
+  "/Users/shiyanjun/Downloads/RunBall/assets/src/MoveBall.ts": {
+    "time": 1695710898695.4055,
+    "uuid": "80fac119-6d2a-4610-a321-74c30fa1334c",
+    "missing": false
+  },
+  "/Users/shiyanjun/Downloads/MoveBall/assets/scene": {
+    "time": 1695689296375.1914,
+    "uuid": "a23c3294-cac0-4a57-a4d3-796874bedac8",
+    "missing": false
+  },
+  "/Users/shiyanjun/Downloads/MoveBall/assets/src": {
+    "time": 1695689725526.2156,
+    "uuid": "e68c1107-228f-48a8-818f-3d49e176caf7",
+    "missing": false
+  },
+  "/Users/shiyanjun/Downloads/MoveBall/assets/src/MoveBall.ts": {
+    "time": 1695711316480.6543,
+    "uuid": "80fac119-6d2a-4610-a321-74c30fa1334c",
+    "missing": false
+  },
+  "/Users/shiyanjun/Downloads/MoveBall/assets/scene.meta": {
+    "time": 1695689262435.4182
+  },
+  "/Users/shiyanjun/Downloads/MoveBall/assets/src.meta": {
+    "time": 1695689714646.7034
+  },
+  "/Users/shiyanjun/Downloads/MoveBall/assets/src/MoveBall.ts.meta": {
+    "time": 1695689725527.4963
+  },
+  "/Users/shiyanjun/Downloads/MoveBall/assets/scene/MoveBall.scene": {
+    "time": 1695710999397.9575,
+    "uuid": "625579be-b0df-4173-9db7-e3baa02dd056",
+    "missing": false
+  },
+  "/Users/shiyanjun/Downloads/MoveBall/assets/scene/MoveBall.scene.meta": {
+    "time": 1695689290738.843
+  }
+}
